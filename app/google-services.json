@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952433247338",
+    "project_id": "bsbsecondquarter",
+    "storage_bucket": "bsbsecondquarter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952433247338:android:7f187feafd98aeeda2f613",
+        "android_client_info": {
+          "package_name": "shamsiddin.project.bsb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJB-jPej20ERGe54Nghw4-6zbcKlOe22k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
